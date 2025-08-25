@@ -1,118 +1,133 @@
-Sunkeerth — VR Engineer & AI/ML Developer
-<!-- HERO / BANNER --><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&duration=3000&pause=600&multiline=true&center=true&vCenter=true&random=false&width=900&height=120&lines=Building+VR+Universities+%26+AI+Healthcare+Tools;Unity+%7C+C%23+%7C+Python+%7C+TensorFlow+%7C+PyTorch+%7C+AWS+%7C+GCP;XR+%7C+Computer+Vision+%7C+NLP+%7C+Generative+AI" alt="typing intro" /> </p><p align="center"> <a href="https://www.linkedin.com/in/sunkeerth-ab14b3337/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a> <a href="https://sunkeerth.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?logo=vercel&logoColor=white"></a> <a href="mailto:sunkeerthaiml.bitm@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-EB4335?logo=gmail&logoColor=white"></a> <a href="https://github.com/Sunkeerth" target="_blank"><img alt="Followers" src="https://img.shields.io/github/followers/Sunkeerth?style=social"></a> <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Sunkeerth&style=flat&label=Profile+views"/> </p>
-🚀 What I Do
-I'm a passionate developer building immersive experiences at the intersection of Virtual Reality and Artificial Intelligence. I specialize in:
+#               Sunkeerth — VR Engineer & AI/ML Developer
 
-VR/XR Engineering: Developing immersive educational and training simulations using Unity (URP/XR Interaction Toolkit), C#, and 3D modeling pipelines
+<!-- HERO / BANNER -->
 
-AI/ML Solutions: Creating computer vision systems, NLP applications, and deep learning models with TensorFlow/PyTorch
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&duration=3000&pause=600&multiline=true&center=true&vCenter=true&random=false&width=900&height=120&lines=Building+VR+Universities+%26+AI+Healthcare+Tools;Unity+%7C+C%23+%7C+Python+%7C+TensorFlow+%7C+PyTorch+%7C+AWS+%7C+GCP;XR+%7C+Computer+Vision+%7C+NLP+%7C+Generative+AI" alt="typing intro" />
+</p>
 
-Full-Stack Development: Building scalable web platforms with React, Node.js, and cloud infrastructure (AWS/GCP)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sunkeerth-ab14b3337/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://sunkeerth.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?logo=vercel&logoColor=white"></a>
+  <a href="mailto:sunkeerthaiml.bitm@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-EB4335?logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Sunkeerth" target="_blank"><img alt="Followers" src="https://img.shields.io/github/followers/Sunkeerth?style=social"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Sunkeerth&style=flat&label=Profile+views"/>
+</p>
 
-Cloud & Distributed Systems: Optimizing resource usage and implementing cost-effective solutions for data-intensive applications
+---
 
-Currently prototyping a Virtual Reality University with hands-on VR labs and AI-powered learning assistants
+## 🚀 What I do
 
-🔥 Featured Projects
-1) AI-Assisted Telemedicine Kiosk
-Stack: Node.js, Express, JavaScript, QR/Barcode APIs, Voice UI
-Impact: Reduced rural healthcare wait times by ~50% through AI-driven scheduling and voice-first interface for non-literate users
-Highlights: Real-time appointment system, multilingual voice assistance, secure patient data handling
+* **VR/XR Engineering**: Unity (URP/XR Interaction Toolkit), C#, 3D pipelines (Blender → Unity), performance profiling, mobile VR.
+* **AI/ML**: CV (detection, segmentation), NLP (RAG), deep learning (CNNs/LSTMs/Transformers), MLOps on AWS/GCP.
+* **Full‑stack**: React + Node/Express, REST APIs, MongoDB/MySQL, scalable cloud deployment.
 
-https://via.placeholder.com/640x360/2d2d2d/ffffff?text=Demo+GIF+Placeholder+-+Add+Your+Own
+> Currently: prototyping a **Virtual Reality University** with hands‑on VR labs and AI copilots for learning.
 
-2) Virtual Reality University (VRU)
-Stack: Unity (XR), C#, Blender, WebXR, React Dashboard
-Impact: Replaced traditional exams with immersive project-based learning, reducing assessment inefficiencies by 90%
-Highlights: Physics/chemistry VR labs, historical simulations, multi-user classrooms, skill tracking analytics
+---
 
-https://via.placeholder.com/640x360/2d2d2d/ffffff?text=VR+Lab+GIF+Placeholder+-+Add+Your+Own
+## 🔥 Featured Projects
 
-3) Cloud Cost Optimization for VR Assets
-Stack: Unity Editor Tools, GitHub API, AWS S3, GCP Cloud Storage
-Impact: Reduced cloud storage costs by ~60% using distributed storage across GitHub repositories
-Highlights: Automated asset distribution, version control integration, scalable storage solution
+> Replace repo links with your own. Thumbnails (GIF/PNG) should live in `assets/`.
 
-https://via.placeholder.com/640x360/2d2d2d/ffffff?text=Optimization+Chart+Placeholder
+### 1) AI‑Assisted Telemedicine Kiosk
 
-4) Vision-Based XR Interactions
-Stack: Unity, OpenCV, PyTorch, MediaPipe
-Highlights: Hand gesture recognition, pose estimation for VR/AR, real-time computer vision integration
-Applications: Controller-free interactions, accessibility features, immersive UX design
+**Stack:** Node.js, Express, JS, QR/Barcode, Voice UI
+**Impact:** Cuts rural wait times by \~50%; voice‑first access for non‑literate users.
+**Repo:** `https://github.com/Sunkeerth/ai-telemedicine-kiosk` <img src="assets/telemedicine_kiosk.gif" alt="Telemedicine kiosk demo" width="640"/>
 
-https://via.placeholder.com/640x360/2d2d2d/ffffff?text=Gesture+Recognition+GIF+Placeholder
+### 2) Virtual Reality University (VRU)
 
-🧠 Technical Skills
-VR/XR Development
-https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white
-https://img.shields.io/badge/C%2523-239120?logo=c-sharp&logoColor=white
-https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white
-https://img.shields.io/badge/Oculus-1C1E20?logo=oculus&logoColor=white
-https://img.shields.io/badge/WebXR-000000?logo=webxr&logoColor=white
+**Stack:** Unity (XR), C#, 3D, WebXR; React dashboard
+**Impact:** Project‑based learning; VR labs replacing high‑friction exams.
+**Repo:** `https://github.com/Sunkeerth/rgac-virtual-university` <img src="assets/vru_lab.gif" alt="VRU lab demo" width="640"/>
 
-AI/ML & Data Science
-https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white
-https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white
-https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white
-https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white
-https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white
+### 3) Cloud Cost Optimization for VR Assets
 
-Web & Cloud Development
-https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white
-https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white
-https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white
-https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white
-https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white
+**Stack:** Unity tooling, GitHub API, AWS/GCP
+**Idea:** Distributed storage across student repos to reduce cloud spend.
+**Repo:** `https://github.com/Sunkeerth/vr-cloud-optimizer` <img src="assets/cloud_costs.png" alt="Cloud costs chart" width="640"/>
 
-Tools & Practices
-https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white
-https://img.shields.io/badge/REST_API-FF6C37?logo=rest&logoColor=white
-https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white
+### 4) Vision‑based XR Interactions (Sample)
 
-📊 GitHub Metrics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sunkeerth&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="500" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunkeerth&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" /> </p><p align="center"> <img src="https://streak-stats.demolab.com?user=Sunkeerth&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="500" /> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sunkeerth&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" /> </p>
-🗂️ Pinned Repositories
-https://github-readme-stats.vercel.app/api/pin/?username=Sunkeerth&repo=vr-university&theme=radical
-https://github-readme-stats.vercel.app/api/pin/?username=Sunkeerth&repo=ai-telemedicine-kiosk&theme=radical
+**Stack:** Unity + OpenCV + PyTorch (gesture → actions)
+**Repo:** `https://github.com/Sunkeerth/xr-vision-input` <img src="assets/xr_gesture.gif" alt="XR gesture demo" width="640"/>
 
-https://github-readme-stats.vercel.app/api/pin/?username=Sunkeerth&repo=vr-cloud-optimizer&theme=radical
-https://github-readme-stats.vercel.app/api/pin/?username=Sunkeerth&repo=xr-vision-input&theme=radical
+---
 
-🛠️ Development Practices
-Code Quality: Pre-commit hooks, ESLint, Black, and comprehensive testing suites
+## 🧠 Skills
 
-Documentation: Detailed READMEs, architecture diagrams, and contribution guidelines
+**VR/XR**
+![Unity](https://img.shields.io/badge/Unity-000?logo=unity\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp\&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender\&logoColor=white)
+![WebXR](https://img.shields.io/badge/WebXR-222222)
 
-CI/CD: GitHub Actions for automated testing and deployment pipelines
+**AI/ML & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn\&logoColor=white)
 
-Modular Design: Component-based architecture for both Unity and web projects
+**Web & Cloud**
+![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws\&logoColor=ffb300)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud\&logoColor=white)
 
-Performance Optimization: Profiling VR applications and ML models for efficiency
+---
 
-📣 Recent Achievements
-VR University Prototype: Selected for showcase at [University Tech Symposium 2023]
+## 📊 Developer Metrics
 
-AI Healthcare Project: Recognized by [Local Health Innovation Challenge] for social impact
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunkeerth&show_icons=true&hide_title=true" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sunkeerth" alt="streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sunkeerth&margin-w=12" alt="trophy" />
+</p>
 
-Open Source Contributions: Active contributor to Unity XR Interaction Toolkit community
+---
 
-Research Paper: "Implementing VR Laboratories for Enhanced STEM Education" (in review)
+## 🗂️ Pinned
 
-🤝 Collaboration Interests
-I'm actively seeking collaborations in:
+* 🔬 **AI Telemedicine Kiosk** — voice‑first registration & triage → *see demo above*
+* 🧪 **VRU Labs** — XR labs (physics, circuits, robotics) with analytics
+* 💸 **VR Cloud Optimizer** — tooling to cut VR asset storage costs
+* ✋ **XR Vision Input** — gestures/pose → interaction in Unity
 
-EdTech VR: Developing immersive learning experiences for STEM education
+> Use **Profile → Customize profile → Pin repositories** to display them here.
 
-Healthcare AI: Building accessible medical technology solutions
+---
 
-Computer Vision: Researching novel interaction methods for XR
+## 🛠️ Tooling & Reproducibility
 
-Open Source: Contributing to VR/AR development tools and frameworks
+* Dev containers / Codespaces for ML & Unity tooling (where supported)
+* Makefiles + pre‑commit hooks (black, flake8, eslint) for consistent builds
+* Issue templates & labels for transparent roadmaps
 
-Let's connect if you're working on innovative projects in these spaces!
+---
 
-📫 Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/sunkeerth-ab14b3337/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:sunkeerthaiml.bitm@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://sunkeerth.github.io/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> <a href="https://github.com/Sunkeerth"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
-<p align="center"> <i>Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration opportunities.</i> </p><p align="center"> <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSunkeerth&label=Visitors&countColor=%23263759" alt="Visitor Badge"/> </p>
+## 📣 Speaking & Writing
+
+* *How VR Labs Reinvent Engineering Education* — talk & live demo (slides soon)
+* *Designing Voice‑First UIs for Rural Healthcare* — article in progress
+
+---
+
+## 🤝 Collaborations
+
+I’m open to research collaborations and product work across **VR learning**, **healthcare AI**, and **computer vision**. Ping me!
+
+---
+
+## 📬 Contact
+
+* Email: `sunkeerthaiml.bitm@gmail.com`
+* Portfolio: `https://sunkeerth.github.io/`
+* LinkedIn: `https://www.linkedin.com/in/sunkeerth-ab14b3337/`
