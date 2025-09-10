@@ -16,6 +16,15 @@
 
 ---
 
+## 🚀 What I do
+
+* **VR/XR Engineering**: Unity (URP/XR Interaction Toolkit), C#, 3D pipelines (Blender → Unity), performance profiling, mobile VR.
+* **AI/ML**: CV (detection, segmentation), NLP (RAG), deep learning (CNNs/LSTMs/Transformers), MLOps on AWS/GCP.
+* **Full‑stack**: React + Node/Express, REST APIs, MongoDB/MySQL, scalable cloud deployment.
+
+> Currently: prototyping a **Virtual Reality University** with hands‑on VR labs and AI copilots for learning.
+
+---
 
 
 ## 🔥 Featured Projects
