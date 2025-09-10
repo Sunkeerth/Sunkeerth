@@ -16,37 +16,7 @@
 
 ---
 
-<!-- HERO + QR CODE SECTION -->
-<table width="100%">
-  <tr>
-    <!-- Left Side: Intro -->
-    <td width="70%" valign="top">
-      <h3>🚀 What I Do</h3>
-      <ul>
-        <li><b>VR/XR Engineering</b>: Unity (URP, XR Toolkit), C#, WebXR/OpenXR, Blender → Unity pipelines, GPU optimization, mobile VR.</li>
-        <li><b>AI/ML</b>: Computer Vision (detection, segmentation, OCR), NLP (RAG, chatbots), deep learning (CNNs, LSTMs, Transformers), MLOps with AWS/GCP.</li>
-        <li><b>Full-Stack Development</b>: React + Node/Express, REST APIs, MongoDB/MySQL, scalable deployment on AWS/GCP.</li>
-      </ul>
-      <p>
-        👉 Currently: building a <b>Virtual Reality University</b> with immersive VR labs, hackathon-based evaluations, and AI teaching copilots.
-      </p>
-    </td>
 
-    <!-- Right Side: QR Code -->
-    <td width="30%" align="center" valign="top">
-      <h3>📱 Scan to View Portfolio</h3>
-      <img 
-        src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://sunkeerth.github.io/" 
-        alt="Portfolio QR Code" 
-        width="150"
-      />
-      <br>
-      <sub><a href="https://sunkeerth.github.io/">sunkeerth.github.io</a></sub>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🔥 Featured Projects
 
