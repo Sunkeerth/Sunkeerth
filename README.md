@@ -1,4 +1,4 @@
-#               Sunkeerth — VR Engineer & AI/ML Developer
+# Sunkeerth — VR Engineer & AI/ML Developer
 
 <!-- HERO / BANNER -->
 <p align="center">
@@ -16,36 +16,29 @@
 
 ---
 
-## 🚀 What I Do
-
-* **VR/XR Engineering**: Unity (URP, XR Toolkit), C#, WebXR/OpenXR, Blender → Unity pipelines, GPU optimization, mobile VR.
-* **AI/ML**: Computer Vision (detection, segmentation, OCR), NLP (RAG, chatbots), deep learning (CNNs, LSTMs, Transformers), MLOps with AWS/GCP.
-* **Full-Stack Development**: React + Node/Express, REST APIs, MongoDB/MySQL, scalable deployment on AWS/GCP.
-
-> Currently: building a **Virtual Reality University** with immersive VR labs, hackathon-based evaluations, and AI teaching copilots.
-
----
-
+<!-- HERO + QR CODE SECTION -->
 <table width="100%">
   <tr>
     <!-- Left Side: Intro -->
-    <td>
-      <h1>🚀 Sunkeerth's Portfolio</h1>
+    <td width="70%" valign="top">
+      <h3>🚀 What I Do</h3>
+      <ul>
+        <li><b>VR/XR Engineering</b>: Unity (URP, XR Toolkit), C#, WebXR/OpenXR, Blender → Unity pipelines, GPU optimization, mobile VR.</li>
+        <li><b>AI/ML</b>: Computer Vision (detection, segmentation, OCR), NLP (RAG, chatbots), deep learning (CNNs, LSTMs, Transformers), MLOps with AWS/GCP.</li>
+        <li><b>Full-Stack Development</b>: React + Node/Express, REST APIs, MongoDB/MySQL, scalable deployment on AWS/GCP.</li>
+      </ul>
       <p>
-        I build <b>VR, AI, and Cloud solutions</b> that shape the future.  
-        Passionate about creating immersive education platforms, cost-optimized VR workflows,  
-        and next-gen headset prototypes.  
+        👉 Currently: building a <b>Virtual Reality University</b> with immersive VR labs, hackathon-based evaluations, and AI teaching copilots.
       </p>
     </td>
 
     <!-- Right Side: QR Code -->
-    <td width="30%" align="center">
+    <td width="30%" align="center" valign="top">
       <h3>📱 Scan to View Portfolio</h3>
       <img 
         src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://sunkeerth.github.io/" 
         alt="Portfolio QR Code" 
-        width="150" 
-        style="border: 2px solid #ddd; border-radius: 12px; box-shadow: 2px 2px 6px rgba(0,0,0,0.2);" 
+        width="150"
       />
       <br>
       <sub><a href="https://sunkeerth.github.io/">sunkeerth.github.io</a></sub>
@@ -53,6 +46,7 @@
   </tr>
 </table>
 
+---
 
 ## 🔥 Featured Projects
 
