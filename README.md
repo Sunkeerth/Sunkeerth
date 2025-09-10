@@ -28,30 +28,38 @@
 
 ## 🔥 Featured Projects
 
-> Replace repo links with your own. Thumbnails (GIF/PNG) should live in `assets/`.
+🔥 Featured Projects
+1) AI-Assisted Telemedicine Kiosk
 
-### 1) AI‑Assisted Telemedicine Kiosk
+Stack: Node.js, Express, JavaScript, QR/Barcode Scanning, Voice UI
+Impact: Reduced rural OPD wait times by ~50%. Enables voice-first healthcare access for non-literate users.
+Repo: MINI_PROJECT_KISOK
 
-**Stack:** Node.js, Express, JS, QR/Barcode, Voice UI
-**Impact:** Cuts rural wait times by \~50%; voice‑first access for non‑literate users.
-**Repo:** `https://github.com/Sunkeerth/ai-telemedicine-kiosk` <img src="assets/telemedicine_kiosk.gif" alt="Telemedicine kiosk demo" width="640"/>
+<img src="assets/telemedicine_kiosk.gif" alt="Telemedicine kiosk demo" width="640"/>
 
-### 2) Virtual Reality University (VRU)
+2) RAGC Virtual University (VRU)
 
-**Stack:** Unity (XR), C#, 3D, WebXR; React dashboard
-**Impact:** Project‑based learning; VR labs replacing high‑friction exams.
-**Repo:** `https://github.com/Sunkeerth/rgac-virtual-university` <img src="assets/vru_lab.gif" alt="VRU lab demo" width="640"/>
+Stack: React, Vite, Node.js, MongoDB, WebXR, Unity (XR)
+Impact: Transforms education with VR labs, private video courses, and hackathon-based evaluation — removing exam bottlenecks.
+Repo: RAGC-Virtual-university
 
-### 3) Cloud Cost Optimization for VR Assets
+<img src="assets/vru_lab.gif" alt="Virtual University lab demo" width="640"/>
 
-**Stack:** Unity tooling, GitHub API, AWS/GCP
-**Idea:** Distributed storage across student repos to reduce cloud spend.
-**Repo:** `https://github.com/Sunkeerth/vr-cloud-optimizer` <img src="assets/cloud_costs.png" alt="Cloud costs chart" width="640"/>
+3) Cloud Cost Optimization for VR Assets
 
-### 4) Vision‑based XR Interactions (Sample)
+Stack: Unity tooling, GitHub API, AWS/GCP, Distributed Storage
+Impact: Offloads heavy VR/AR assets to distributed student repos, reducing cloud storage spend significantly.
+Repo: Cloud-Cost-Optimization-for-VR-Assets
 
-**Stack:** Unity + OpenCV + PyTorch (gesture → actions)
-**Repo:** `https://github.com/Sunkeerth/xr-vision-input` <img src="assets/xr_gesture.gif" alt="XR gesture demo" width="640"/>
+<img src="assets/cloud_optimizer.png" alt="Cloud optimization results" width="640"/>
+
+4) Designing a Next-Gen VR Headset System
+
+Stack: Unity XR, C#, WebXR, OpenXR, GPU Optimization
+Impact: Prototype for real-time high-fidelity 3D world capture and immersive rendering — pushing boundaries of VR headsets.
+Repo: Designing-a-Next-Gen-VR-Headset-System
+
+<img src="assets/nextgen_vr_headset.gif" alt="Next-gen VR headset demo" width="640"/>
 
 ---
 
