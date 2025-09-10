@@ -26,6 +26,34 @@
 
 ---
 
+<table width="100%">
+  <tr>
+    <!-- Left Side: Intro -->
+    <td>
+      <h1>🚀 Sunkeerth's Portfolio</h1>
+      <p>
+        I build <b>VR, AI, and Cloud solutions</b> that shape the future.  
+        Passionate about creating immersive education platforms, cost-optimized VR workflows,  
+        and next-gen headset prototypes.  
+      </p>
+    </td>
+
+    <!-- Right Side: QR Code -->
+    <td width="30%" align="center">
+      <h3>📱 Scan to View Portfolio</h3>
+      <img 
+        src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://sunkeerth.github.io/" 
+        alt="Portfolio QR Code" 
+        width="150" 
+        style="border: 2px solid #ddd; border-radius: 12px; box-shadow: 2px 2px 6px rgba(0,0,0,0.2);" 
+      />
+      <br>
+      <sub><a href="https://sunkeerth.github.io/">sunkeerth.github.io</a></sub>
+    </td>
+  </tr>
+</table>
+
+
 ## 🔥 Featured Projects
 
 ### 1) AI-Assisted Telemedicine Kiosk  
@@ -40,7 +68,7 @@
 ### 2) RAGC Virtual University (VRU)  
 **Stack:** React, Vite, Node.js, MongoDB, WebXR, Unity (XR)  
 **Impact:** **Transforms education** with VR labs, private video courses, and hackathon-based evaluation — no exam bottlenecks.  
-**Repo:** [RAGC-Virtual-university](https://github.com/Sunkeerth/RAGC-Virtual-university)  
+**Repo:** [RAGC-Virtual-university](https://github.com/Sunkeerth/RAGC-Virtual-university-)  
 
 <img src="assets/vru_lab.gif" alt="Virtual University lab demo" width="640"/>
 
@@ -49,7 +77,7 @@
 ### 3) Cloud Cost Optimization for VR Assets  
 **Stack:** Unity tooling, GitHub API, AWS/GCP, Distributed Storage  
 **Impact:** Offloads **heavy VR/AR assets** to distributed student repos, cutting cloud storage costs significantly.  
-**Repo:** [Cloud-Cost-Optimization-for-VR-Assets](https://github.com/Sunkeerth/Cloud-Cost-Optimization-for-VR-Assets)  
+**Repo:** [Cloud-Cost-Optimization-for-VR-Assets](https://github.com/Sunkeerth/-Cloud-Cost-Optimization-for-VR-Assets)  
 
 <img src="assets/cloud_optimizer.png" alt="Cloud optimization results" width="640"/>
 
@@ -58,7 +86,7 @@
 ### 4) Next-Gen VR Headset System  
 **Stack:** Unity XR, C#, WebXR, OpenXR, GPU Profiling  
 **Impact:** Prototype for **real-time 3D world capture** and immersive rendering — pushing VR headset boundaries.  
-**Repo:** [Designing-a-Next-Gen-VR-Headset-System](https://github.com/Sunkeerth/Designing-a-Next-Gen-VR-Headset-System)  
+**Repo:** [Designing-a-Next-Gen-VR-Headset-System](https://github.com/Sunkeerth/-Designing-a-Next-Gen-VR-Headset-System-for-Real-Time-High-Fidelity-3D-World-Capture-and-Modeling-)  
 
 <img src="assets/nextgen_vr_headset.gif" alt="Next-gen VR headset demo" width="640"/>
 
