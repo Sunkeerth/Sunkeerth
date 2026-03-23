@@ -206,6 +206,7 @@ An immersive AI-driven virtual university platform that replaces traditional edu
   </a>
 </p>
 ---
+
 ### 🐾 Animal & Human Detection System  
 *[GitHub](https://github.com/Sunkeerth/Animal-and-Human-Detection-Model)*
 
