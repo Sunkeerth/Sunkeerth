@@ -58,7 +58,7 @@ I’m a **B.Tech AI & Machine Learning** student at Ballari Institute of Technol
 ## 🚀 Featured Projects
 
 ### 🤖 AI‑Powered Vision‑Language‑Action Robotics System  
-*[GitHub](https://github.com/Sunkeerth/Vision-Language-Action-Robotics-System)*
+*[GitHub](https://github.com/Sunkeerth/Vision-Language-Action-Based-Robotic-Navigation-System-with-Multimodal-Transformer-Reasoning)*
 
 An end‑to‑end VLA pipeline that enables a robot to perceive its environment, understand natural language, and execute complex tasks.
 
@@ -70,9 +70,17 @@ An end‑to‑end VLA pipeline that enables a robot to perceive its environment,
 
 **Tech Stack:** `ROS2` `YOLOv8` `CLIP` `LangChain` `Phi-3` `Gazebo` `Nav2` `Python`
 
+<!-- Embedded video with controls (may not work on all GitHub viewers) -->
+<p align="center">
+  <video width="640" height="360" controls>
+    <source src="https://drive.google.com/file/d/13vN3dY9bAXRFbN5lKrTCaJZLXe9vyfb6/view?usp=drive_link" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 <p align="center">
   <a href="https://drive.google.com/file/d/13vN3dY9bAXRFbN5lKrTCaJZLXe9vyfb6/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
+    <img src="https://img.shields.io/badge/▶️_Open_in_Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Open in Google Drive" />
   </a>
 </p>
 
