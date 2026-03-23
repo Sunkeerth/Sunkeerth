@@ -1,78 +1,127 @@
-# 🤖 Sunkeerth | AI & Robotics Engineer
-### Exploring the intersection of Embodied AI, Multimodal LLMs, and Autonomous Systems
-
-<p align="left">
-  <img src="https://img.shields.io/badge/B.Tech-AIML-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Vision--Language--Action-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hardware-ESP32%20%7C%20CUDA%20%7C%20Drones-green?style=for-the-badge" />
-</p>
-
----
-
-## 🚀 Featured Project: Vision-Language-Action (VLA) Navigation
-**A Multimodal AI system enabling robots to perceive environments and execute natural language commands.**
+<!-- Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Sunkeerth+Y;AI+%26+Robotics+Engineer;Innovation+Driven" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/13vN3dY9bAXRFbN5lKrTCaJZLXe9vyfb6/view?usp=sharing">
-    <img src="https://img.youtube.com/vi/placeholder/maxresdefault.jpg" alt="Watch Project Demo" width="800">
-    <br>
-    <b>▶️ CLICK TO WATCH SYSTEM DEMO (DRIVE)</b>
+  <img src="https://komarev.com/ghpvc/?username=Sunkeerth&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/Sunkeerth?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sunkeerth?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+  <a href="mailto:sunkeerthaiml.bitm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/sunkeerth-y">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-*   **Core Tech:** CNN Vision Encoder + Transformer Language Encoder + Multimodal Fusion.
-*   **Performance:** Real-time inference accelerated via **NVIDIA CUDA GPU**.
-*   **Environment:** PyBullet Physics Simulation + YOLOv8 Object Detection.
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate **AI & Robotics Engineer** from India, currently pursuing my B.Tech in Artificial Intelligence and Machine Learning at Ballari Institute of Technology and Management. I love building intelligent systems that bridge the gap between software and the physical world.
+
+- 🔭 I’m currently working on **Vision-Language-Action models** for autonomous robotics.
+- 🌱 I’m exploring **multimodal AI**, **edge computing**, and **drone communication systems**.
+- 🏆 Represented my college at the **NIDAR Drone Competition** – a national-level challenge.
+- 🤝 Open to collaborations in **robotics**, **computer vision**, and **AI for healthcare**.
 
 ---
 
-## 🛠️ Technical Arsenal
-
-| Category | Technologies |
-|---|---|
-| **AI / Machine Learning** | PyTorch, TensorFlow, Scikit-learn, YOLOv8, Transformers, NLP (ASR/STT) |
-| **Robotics & Simulation** | PyBullet, ROS (Learning), Drone Telemetry (MAVLink), ESP-NOW |
-| **Computer Vision** | OpenCV, Perspective Transformation, Pattern Recognition, jsQR |
-| **Hardware / IoT** | ESP32, ESP8266, Jetson Nano, GPS/Telemetry Modules, Sub-GHz Radios |
-| **Full Stack** | Node.js, Express, MongoDB (NoSQL), React.js, Tailwind CSS |
-
----
-
-## 📂 Key Projects
+## 🚀 Featured Projects
 
 ### 🏥 AI-Assisted Telemedicine Kiosk
-An end-to-end healthcare workflow automation system.
-- **Workflow:** QR Patient Identification ➔ Speech-to-Text Symptom Collection ➔ NLP Extraction ➔ Rule-Based Doctor Assignment.
-- **Stack:** Node.js, MongoDB, Web Speech API, Reed-Solomon Error Correction.
 
-### 🛸 Autonomous Agriculture Drone System (NIDAR National Finalist)
-Multi-drone communication system for field scanning and precision spraying.
-- **Architecture:** Sub-GHz Telemetry (915MHz) for 2km+ range.
-- **Innovation:** Developed a custom ESP32-based communication protocol with ACK/Retry logic for zero-packet-loss GPS sharing.
-- **Achievement:** National Level Finalist @ NIDAR Drone Competition.
+An intelligent healthcare kiosk that automates patient identification, symptom collection, doctor assignment, and report generation using **QR codes**, **speech recognition**, and **NLP**.
+
+**Key Features:**
+- QR-based patient identification with Reed–Solomon error correction
+- Voice-based symptom collection using Web Speech API
+- Rule-based doctor assignment (General Physician / ENT / etc.)
+- Email notifications via SMTPGO and receipt printing
+- MongoDB for scalable data storage
+
+**Tech Stack:**  
+`Node.js` `Express` `MongoDB` `HTML/CSS/JS` `Web Speech API` `jsQR` `SMTPGO`
+
+[![Repo Link](https://img.shields.io/badge/Repository-View_on_GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Sunkeerth/AI-Telemedicine-Kiosk)  
+[![Demo Video](https://img.shields.io/badge/Demo-Watch_Video-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/13vN3dY9bAXRFbN5lKrTCaJZLXe9vyfb6/view?usp=drive_link)
 
 ---
 
-## 📊 GitHub Analytics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Sunkeerth&show_icons=true&theme=tokyonight&count_private=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunkeerth&layout=compact&theme=tokyonight" width="300" />
+### 🤖 Vision-Language-Action Based Robotic Navigation System
+
+A multimodal AI system that enables a robot to understand natural language commands and navigate autonomously in a simulated environment using **computer vision**, **language models**, and **robot control**.
+
+**Architecture:**
+- Vision encoder (CNN) extracts spatial features from camera input.
+- Language encoder (Transformer) processes natural language instructions.
+- Multimodal fusion transformer learns cross-modal relationships.
+- Action prediction network outputs navigation commands (forward, left, right, stop).
+- PyBullet physics simulation for realistic robot control.
+
+**Tech Stack:**  
+`PyTorch` `OpenCV` `Transformers` `YOLOv8` `PyBullet` `CUDA`
+
+[![Repo Link](https://img.shields.io/badge/Repository-View_on_GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Sunkeerth/Vision-Language-Action-Based-Robotic-Navigation-System)  
+[![Demo Video](https://img.shields.io/badge/Demo-Watch_Video-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/13vN3dY9bAXRFbN5lKrTCaJZLXe9vyfb6/view?usp=drive_link)
+
+---
+
+### 🚁 Autonomous Drone Communication & Agriculture System
+
+Developed a robust communication system for **scanning and spraying drones** using **ESP32/ESP8266** with **UART** and **ESP-NOW** for real-time control and data exchange. Integrated **GPS**, **telemetry**, and **failsafe mechanisms** to ensure reliable operation in agricultural fields.
+
+**Key Achievements:**
+- Achieved reliable low-latency communication over a 90×90 m field using Wi-Fi and external antennas.
+- Implemented application-level ACKs, retries, and sequence numbers for data integrity.
+- Built a centralized base station architecture for coordinating drone missions.
+- Participated in the **NIDAR Drone Competition Grand Finale** (PR1 & PR2 Final Mission), gaining hands-on experience in drone technology and teamwork.
+
+**Tech Stack:**  
+`ESP32` `ESP8266` `Wi-Fi` `UART` `GPS` `Arduino` `PyBullet`
+
+[![Repo Link](https://img.shields.io/badge/Repository-View_on_GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Sunkeerth/Autonomous-Drone-Comm)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyBullet-000000?style=flat&logo=bullet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## 🏆 Achievements & Certifications
-- **Finalist:** NIDAR National Drone Competition (PR1 & PR2 Mission Success).
-- **Researcher:** Exploring Agricultural Automation using Swarm Intelligence.
+## 📊 GitHub Stats
 
----
-
-## 📬 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sunkeerthaiml.bitm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunkeerth&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunkeerth&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
-*“Building the brains for the machines of tomorrow.”*
+
+## 📫 Let's Connect
+
+- 💼 **LinkedIn:** [Sunkeerth Y](https://www.linkedin.com/in/sunkeerth-y)
+- 📧 **Email:** [sunkeerthaiml.bitm@gmail.com](mailto:sunkeerthaiml.bitm@gmail.com)
+- 🌐 **Portfolio:** [Coming Soon](#)
+- 🐦 **Twitter/X:** [@Sunkeerth](https://twitter.com/Sunkeerth)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
+</p>
