@@ -85,35 +85,10 @@ An end‑to‑end VLA pipeline that enables a robot to perceive its environment,
 </p>
 
 ---
-
-### 📚 RAG‑Based Document Query & Summarization System  
-*[Drive Demo](https://drive.google.com/...)*
-
-A retrieval‑augmented generation pipeline that lets users upload PDFs and ask questions, receiving concise, context‑aware answers.
-
-- **Embeddings**: OpenAI embeddings + FAISS for efficient similarity search.  
-- **Query Focus**: LangChain chains with prompt tuning and factual consistency evaluation.  
-- **Deployment**: API‑ready backend for integration into larger applications.
-
-**Tech Stack:** `OpenAI` `LangChain` `FAISS` `Python` `FastAPI`
-
----
-
-### 🤖 AI Workflow Automation & Ticket Routing (GenAI)  
-*[GitHub](https://github.com/Sunkeerth/AI-Ticket-Routing)*
-
-A full‑stack application that automatically classifies support tickets and suggests resolutions, reducing manual triage time by 40%.
-
-- **Backend**: Django with OpenAI GPT for classification and response generation.  
-- **RAG**: Historical tickets embedded and retrieved to provide context‑aware replies.  
-- **Frontend**: React dashboard for visualization and manual override.
-
-**Tech Stack:** `Django` `React` `OpenAI` `LangChain` `PostgreSQL`
-
 ---
 
 ### 🏥 AI‑Assisted Telemedicine Kiosk (Hackathon – 2nd Place)  
-*[GitHub](https://github.com/Sunkeerth/AI-Telemedicine-Kiosk)*
+*[GitHub](https://github.com/Sunkeerth/AI-Assisted-Telemedicine-Kiosk-)*
 
 A voice‑assisted healthcare kiosk that automates patient identification, symptom collection, doctor assignment, and report generation.
 
@@ -124,10 +99,12 @@ A voice‑assisted healthcare kiosk that automates patient identification, sympt
 
 **Tech Stack:** `Node.js` `Express` `MongoDB` `HTML/CSS/JS` `Web Speech API` `SMTPGO`
 
+
+
 ---
 
 ### 🚁 Autonomous Drone Communication & Agriculture System  
-*[Drive Demo](https://drive.google.com/...)*
+*[Drive Demo](https://www.linkedin.com/posts/sunkeerth-ab14b3337_nidar-dronetechnology-bitm-ugcPost-7424705466426941440-QX82?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSc9WUB3ulIpeEaNNKqDPDRei5i89hIh98)*
 
 A robust communication system for scanning and spraying drones using ESP32/ESP8266 with ESP‑NOW and UART for real‑time control in agricultural fields.
 
@@ -137,10 +114,25 @@ A robust communication system for scanning and spraying drones using ESP32/ESP82
 
 **Tech Stack:** `ESP32` `ESP-NOW` `UART` `GPS` `Arduino` `Python (simulation)`
 
+<p align="center">
+  <video width="640" height="360" controls>
+    <source src="https://drive.google.com/drive/folders/1gpgImszF6rsuyoYargwEqgUpb2M51p9N?usp=drive_link" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/13vN3dY9bAXRFbN5lKrTCaJZLXe9vyfb6/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_Open_in_Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Open in Google Drive" />
+  </a>
+</p>
+
+
+
 ---
 
 ### 🎨 Industrial Robotic Spray Simulation for Manufacturing Automation  
-*[GitHub](https://github.com/Sunkeerth/Robotic-Spray-Simulation)*
+*[GitHub](https://github.com/Sunkeerth/Simulated-Paint-Spraying-on-a-Wall-Mesh-with-Isaac-Warp-and-OpenUSD)*
 
 GPU‑based simulation of an industrial spray coating process using OpenUSD and NVIDIA Warp, modelling parameters like spray density, pressure, and nozzle motion.
 
@@ -150,7 +142,93 @@ GPU‑based simulation of an industrial spray coating process using OpenUSD and 
 
 **Tech Stack:** `OpenUSD` `NVIDIA Warp` `Python` `CUDA`
 
+
+<p align="center">
+  <video width="640" height="360" controls>
+    <source src="https://drive.google.com/file/d/1YuEfcAn7geeOS4lUxMUSKe_vZmqinJQd/view?usp=drive_link" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/13vN3dY9bAXRFbN5lKrTCaJZLXe9vyfb6/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_Open_in_Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Open in Google Drive" />
+  </a>
+</p>
 ---
+
+### 🚗 Embedded AI Overtake Safety System  
+*[GitHub](https://www.linkedin.com/posts/sunkeerth-ab14b3337_roadsafety-embeddedai-smarttransportation-ugcPost-7407277010462420993-20JD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSc9WUB3ulIpeEaNNKqDPDRei5i89hIh98)*
+
+A real-time edge AI system for vehicle detection and overtaking assistance, deployed on ESP32-CAM with optimized deep learning models for low-latency inference.
+
+- **Edge AI**: On-device inference using TensorFlow Lite  
+- **Detection**: Real-time vehicle recognition for safety alerts  
+- **Optimization**: Lightweight model for embedded hardware constraints  
+
+**Tech Stack:** `ESP32-CAM` `TensorFlow Lite` `Embedded C` `Computer Vision` `Python`
+
+<p align="center">
+  <video width="640" height="360" controls>
+    <source src="https://drive.google.com/file/d/1Kz3dT7vVK9Jzer1csSB3vP8FhpN61bkW/view?usp=drive_link" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<p align="center">
+  <a href="YOUR_VIDEO_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_Open_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
+  </a>
+</p>
+---
+
+### 🎓 RGAC Virtual University – AI + VR Learning Platform  
+*[GitHub](https://github.com/Sunkeerth/RAGC-Virtual-university-)*
+
+An immersive AI-driven virtual university platform that replaces traditional education with interactive VR-based labs, simulations, and skill-based evaluation systems.
+
+- **VR Labs**: Interactive engineering simulations using Unity and WebXR  
+- **AI Integration**: Voice assistant and intelligent guidance system  
+- **Learning Model**: Skill-based evaluation replacing traditional exams  
+
+**Tech Stack:** `Unity3D` `WebXR` `C#` `Blender` `AI Voice Assistant`
+
+<p align="center">
+  <video width="640" height="360" controls>
+    <source src="https://docs.google.com/presentation/d/1izYEt7LxrXkkg5zM5RCBBwlm3Jv_bgh3/edit?usp=drive_link&ouid=103775819834240099125&rtpof=true&sd=true" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<p align="center">
+  <a href="YOUR_VIDEO_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_Open_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
+  </a>
+</p>
+---
+### 🐾 Animal & Human Detection System  
+*[GitHub](https://github.com/Sunkeerth/Animal-and-Human-Detection-Model)*
+
+A real-time computer vision system for detecting humans and animals using a custom-trained YOLOv8 model on non-COCO datasets, enabling robust performance in real-world environments.
+
+- **Detection**: YOLOv8-based object detection trained on Open Images V6 dataset  
+- **Pipeline**: Supports image, video, and live webcam inference  
+- **Monitoring**: Integrated Weights & Biases for tracking mAP, precision, recall, and loss  
+
+**Tech Stack:** `YOLOv8` `PyTorch` `OpenCV` `Weights & Biases` `Python`
+
+<p align="center">
+  <video width="640" height="360" controls>
+    <source src="https://drive.google.com/file/d/1zShsFxMASt87vY67p-0NcxFF-U5Be7Gp/view?usp=drive_link" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<p align="center">
+  <a href="YOUR_VIDEO_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_Open_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
+  </a>
+</p>
 
 ## 📜 Certifications
 
