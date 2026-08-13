@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Sunkeerth+Y;AI+%26+Robotics+Researcher;GenAI+%7C+Embodied+AI;Digital+Twins+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=650&lines=Sunkeerth+Y;R%26D+Engineer+|+AI+%26+Robotics;Sensor-Level+Agentic+AI;Reinforcement+%26+Imitation+Learning" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,26 +16,28 @@
 
 <br/>
 
-## 👨‍🔬 Research & Development Focus
+## 👨‍🔬 Professional Overview
 
-I am an **AI & Machine Learning** researcher and developer at the Ballari Institute of Technology and Management. My core focus sits at the intersection of **Generative AI**, **Embodied Robotics**, and **Digital Twins**. I am deeply passionate about building intelligent systems that perceive complex environments, reason through multi-step logic, and execute physical actions autonomously.
+I am an **AI & Robotics Research and Development Engineer** transitioning from academic research into the IT industry. My work bridges the gap between **Generative AI** and **Embodied Robotics**, focusing on building intelligent systems that can perceive, reason, and act autonomously in complex environments. 
 
-- 🔭 **Current R&D:** Building production-ready Vision-Language-Action (VLA) pipelines combining ROS2, YOLOv8, and Large Language Models.
-- 🌱 **Exploring:** Agentic AI architectures, OpenUSD/NVIDIA Warp for physical simulations, and edge-device optimization.
-- 🏆 **Milestones:** National finalist at the NIDAR Drone Competition (Agricultural autonomous navigation).
-- 🤝 **Collaborations:** Open to R&D roles, collaborative research, and open-source contributions in Robotics and applied AI.
+I specialize in integrating modern AI models with physical hardware, replacing traditional control systems with **Agentic AI** pipelines.
+
+- 🔭 **Current R&D Focus:** Developing **Sensor-Level Agentic AI**—enabling models to process raw sensory data (vision, LiDAR, telemetry) directly into actionable ROS2 node commands.
+- 🧠 **Advanced Learning:** Actively engineering pipelines utilizing **Reinforcement Learning (RL)** and **Imitation Learning (IL)** to train robust robotic policies for navigation and manipulation.
+- ⚙️ **Core Stack:** ROS2, Vision-Language-Action (VLA) architectures, OpenUSD/NVIDIA Warp, and Edge AI deployment.
+- 🤝 **Collaborations:** Open to industry R&D collaborations, open-source robotics projects, and deep-tech discussions.
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ The Tech Stack
 
-| **Domain**          | **Technologies & Frameworks**                                                                                                        |
-|---------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| **AI / Deep Learning** | PyTorch, TensorFlow, YOLOv8, Transformers, CLIP, FAISS, LangChain, LLMs (GPT, Phi‑3), RAG                                        |
-| **Robotics & Simulation** | ROS2 (Humble), Gazebo, Nav2, Behavior Trees, OpenUSD, NVIDIA Warp, Sensor Fusion                                                   |
-| **Embedded Edge AI**   | ESP32, ESP8266, ESP‑NOW, UART, Telemetry, TensorFlow Lite, Embedded C                                                               |
-| **Languages**       | Python, C++, JavaScript, SQL                                                                                                       |
-| **Infrastructure**  | AWS (EC2/Lambda), Docker, Git, Linux, MLOps                                                                                        |
+| **Domain**                | **Technologies & Frameworks**                                                                                                        |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| **Agentic AI & Learning** | Reinforcement Learning (RL), Imitation Learning (IL), Sensor-Level Agents, LangChain, LLMs (GPT, Phi‑3), RAG, FAISS                  |
+| **AI / Deep Learning**    | PyTorch, TensorFlow, YOLOv8, Transformers, Multimodal VLMs (CLIP)                                                                    |
+| **Robotics & Simulation** | ROS2 (Humble), Gazebo, Nav2, Behavior Trees, OpenUSD, NVIDIA Warp, Sensor Fusion pipelines                                           |
+| **Embedded Edge AI**      | ESP32, ESP8266, ESP‑NOW, UART, Telemetry, TensorFlow Lite, Embedded C                                                               |
+| **Infrastructure & Ops**  | AWS, Docker, Git, Linux, MLOps, Python, C++                                                                                        |
 
 ---
 
@@ -44,9 +46,9 @@ I am an **AI & Machine Learning** researcher and developer at the Ballari Instit
 ### 🧠 Embodied AI: Vision-Language-Action Robotics System
 > **[View Repository](https://github.com/Sunkeerth/Vision-Language-Action-Based-Robotic-Navigation-System-with-Multimodal-Transformer-Reasoning)** 
 
-An end‑to‑end VLA pipeline enabling a robot to perceive its environment, understand natural language instructions, and execute complex autonomous tasks.
-* **Architecture:** YOLOv8 (Detection) + CLIP (Relational Understanding) → LangChain (Orchestration) → Phi-3 (Reasoning) → ROS2 Nav2 (Execution).
-* **Innovation:** Implemented a persistent memory module for state tracking and dynamic failure re-planning in Gazebo environments.
+An industry-grade end‑to‑end VLA pipeline enabling a robot to perceive its environment, understand natural language instructions, and execute complex autonomous tasks.
+* **Architecture:** YOLOv8 (Detection) + CLIP (Relational) → LangChain (Orchestration) → Phi-3 (Reasoning) → ROS2 Nav2 (Execution).
+* **R&D Impact:** Engineered a persistent memory module for state tracking and dynamic failure re-planning, moving closer to true sensor-to-action agentic autonomy.
 
 <div align="center">
   <a href="https://drive.google.com/file/d/13vN3dY9bAXRFbN5lKrTCaJZLXe9vyfb6/view?usp=drive_link" target="_blank">
@@ -59,9 +61,9 @@ An end‑to‑end VLA pipeline enabling a robot to perceive its environment, und
 ### 🚁 Autonomous Swarm: Drone Communication & Agriculture System
 > **[View Research Demo](https://www.linkedin.com/posts/sunkeerth-ab14b3337_nidar-dronetechnology-bitm-ugcPost-7424705466426941440-QX82?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSc9WUB3ulIpeEaNNKqDPDRei5i89hIh98)**
 
-Engineered a highly resilient, low-latency communication mesh for autonomous agricultural scanning and spraying drones.
+Engineered a resilient, low-latency communication mesh for autonomous agricultural drones. *(National Finalist at NIDAR Drone Competition)*
 * **Architecture:** ESP32/ESP8266 utilizing ESP-NOW and UART for real-time telemetry.
-* **Innovation:** Designed custom lightweight packet protocols featuring ACKs, retries, and sequence numbers, ensuring 100% data integrity over a 90x90m field radius.
+* **R&D Impact:** Designed custom lightweight packet protocols with ACKs, retries, and sequence numbers, ensuring 100% data integrity over a 90x90m field radius.
 
 <div align="center">
   <a href="https://drive.google.com/drive/folders/1gpgImszF6rsuyoYargwEqgUpb2M51p9N?usp=drive_link" target="_blank">
@@ -74,9 +76,9 @@ Engineered a highly resilient, low-latency communication mesh for autonomous agr
 ### 🏭 Digital Twins: Industrial Robotic Spray Simulation
 > **[View Repository](https://github.com/Sunkeerth/Simulated-Paint-Spraying-on-a-Wall-Mesh-with-Isaac-Warp-and-OpenUSD)**
 
-A GPU‑accelerated simulation of an industrial robotic spray coating process, acting as a foundational Digital Twin for manufacturing optimization.
-* **Architecture:** Developed utilizing NVIDIA Warp and OpenUSD for scene description.
-* **Innovation:** Modeled real-time physics parameters including spray density, nozzle pressure, and dynamic fluid interactions.
+A GPU‑accelerated simulation of an industrial robotic spray coating process, acting as a foundational Digital Twin for Imitation Learning environments.
+* **Architecture:** Developed utilizing NVIDIA Warp and OpenUSD.
+* **R&D Impact:** Modeled real-time physics parameters (spray density, nozzle pressure) to create high-fidelity synthetic environments suitable for training RL/IL policies.
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1YuEfcAn7geeOS4lUxMUSKe_vZmqinJQd/view?usp=drive_link" target="_blank">
@@ -89,26 +91,15 @@ A GPU‑accelerated simulation of an industrial robotic spray coating process, a
 ### 🚗 Edge Computing: AI Overtake Safety System
 > **[View Research Output](https://www.linkedin.com/posts/sunkeerth-ab14b3337_roadsafety-embeddedai-smarttransportation-ugcPost-7407277010462420993-20JD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSc9WUB3ulIpeEaNNKqDPDRei5i89hIh98)**
 
-Deployed an optimized deep learning model directly onto micro-controllers for real-time vehicular safety analysis.
+Deployed an optimized deep learning model directly onto micro-controllers for real-time, low-latency safety analysis.
 * **Architecture:** ESP32-CAM running TensorFlow Lite models natively in Embedded C.
-* **Innovation:** Achieved high-accuracy, low-latency vehicle detection under strict hardware constraints to assist driver overtaking maneuvers safely.
+* **R&D Impact:** Successfully translated high-level AI models into edge-deployable solutions under strict memory and compute constraints.
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1Kz3dT7vVK9Jzer1csSB3vP8FhpN61bkW/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/▶️_Watch_Edge_AI_Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Demo" />
   </a>
 </div>
-
----
-
-## 💼 Experience & Engagements
-
-* **Data Science & Analytics Intern** @ *Amdox* (Mar 2026 – May 2026)  
-  *Developed predictive ML models and scalable behavior-analysis pipelines.*
-* **Future Founder Intern** @ *Ascender Foundation* (Jul 2025 – Sep 2025)  
-  *Architected LLM‑based automation prototypes using LangChain and advanced prompt engineering.*
-* **2nd Place Winner** @ *Inter‑College Hackathon*  
-  *Built an AI‑Assisted Telemedicine Kiosk combining NLP, Speech-to-Text, and hardware interfaces.*
 
 ---
 
